@@ -1,13 +1,21 @@
+/*
+information found from https://www.w3schools.com/css/default.asp
+basic CSS syntax and formatting
+*/
 body {
-  background-color: lightblue;
+  background-color: aquamarine;
 }
 
 h1 {
-  text-align: center;
   color: white;
+  text-align: center;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
 
+/*
+adapted from https://www.w3schools.com/howto/howto_css_image_center.asp
+CSS markup on how to center an howto_css_image_center
+*/
 img {
   display: block;
   margin-left: auto;
